@@ -7,7 +7,7 @@ Teste de SLQ a ser utilizado no exame prático para o cargo de Programador
 
 **O que esperamos de você?**
 
-Esperamos que você crie um script SQL para listar os alunos de acordo com as médias das notas em ordem descrescente.
+Esperamos que você crie um script SQL para listar os alunos de acordo com a média de suas notas em ordem decrescente.
 
 O output de dados deve ser semelhante a tabela abaixo:
 
